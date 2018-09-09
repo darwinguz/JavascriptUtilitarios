@@ -1,0 +1,16 @@
+//tipos de datos
+var num = 10;
+var str = "texto";
+var bol = true;
+var und = undefined;
+var nul = null;
+
+var obj = {
+    numero: 10,
+    texto: "Nuevo texto",
+    objHijo: {
+        numer2: 20,
+        text2: "Nuevo texto 2"
+    }
+};
+console.log(obj);
